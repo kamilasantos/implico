@@ -1,6 +1,3 @@
-# implico
-Implico automation test
-
 # Implico Automated Testing with Cucumber and Selenium WebDriver in Java.
 
 This repository contains automated tests using Cucumber and Selenium WebDriver for the Swag Labs application.
